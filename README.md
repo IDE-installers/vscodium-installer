@@ -23,6 +23,7 @@ On Windows you have to run 'windows-install-vscodium.ps1' .
 It installs VSCodium with choco package manager.
 
 ## Usage
+First of all open PowerShell as administrator, then just type this:
 ```
 .\windows-install-vscodium.ps1
 ```
