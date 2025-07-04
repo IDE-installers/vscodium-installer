@@ -1,15 +1,10 @@
 # About
+**No Longer Maintained**
 
-VSCodium istalled for Linux, Mac and Windows.
+VSCodium installer for Linux, Mac and Windows.
 
 # Note
 ***Sometimes the commands to install Vscodium can be changed by the Devs, so at some point my script will become outdated.*** 
-
-***And scince I don't monitor the commands (from the official site) that often, I would recommend first checking them, and after that only running my scripts.***
-
-***I will eventually check and if needed, edit (update) my scripts.***
-
-***My scripts just contain this official commands, plus a bunch of if's, functions and a switch case to make it all function correctly***
 
 # Linux/Mac
 On Linux or Mac you have to run 'install-vscodium.sh'.
@@ -36,6 +31,3 @@ First of all open PowerShell as administrator, then just type this:
 ```
 .\windows-install-vscodium.ps1
 ```
-
-# Also Note
-If VSCodium isn't installing properly with this script, visit 'https://vscodium.com' and install it by your self.
